@@ -1,5 +1,6 @@
-astropy
-numpy
-matplotlib
-specutils
-scipy
+numpy>=1.23
+matplotlib>=3.7
+scipy>=1.10
+astropy>=6.0
+specutils>=1.6
+seaborn>=0.12
