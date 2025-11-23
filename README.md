@@ -1,7 +1,14 @@
-# 🌟 Stellar Spectra Analysis
+# 🌌 Stellar Spectra Analysis
 
-🔭 Analysis of 2 target stars using 28 reference spectra covering spectral types O4–M4 (wavelength 3900–5000 Å).  
-⚙️ Python tools: Astropy, Specutils, Matplotlib, NumPy used for reading, normalizing, comparing, and classifying stellar spectra.  
-📊 The project generates visualizations of spectral features, highlights key differences, and allows classification of target stars against the reference set.  
-📝 Data and code are organized for reproducibility, including reference and target spectra, scripts, and figures.  
-👥 Authors: Gonzalo Marrero, Pablo Jiménez, Nöel Cortés.
+**Autores:** Gonzalo Marrero, Pablo Jiménez, Nöel Cortés  
+**Mejoras por:** Gonzalo Marrero  
+
+## 🎯 Objetivo
+Análisis y visualización de espectros estelares usando Python.  
+- Comparación de espectros problema con espectros de referencia  
+- Normalización automática y ploteo de líneas guía importantes  
+- Generación de gráficas y archivos PNG listos para informes
+
+## ⚙️ Librerías y herramientas
+- Python 3.x  
+- NumPy, Matplotlib, SciPy, Seaborn, Astropy, Specutils
